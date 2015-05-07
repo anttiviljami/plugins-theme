@@ -41,12 +41,12 @@
         <div class="inner cover">
           <h1 class="cover-heading">Seravon tekemiä WordPress-lisäosia on ladattu yhteensä</h1>
           <h1><span class="downloads huge"><?php echo get_option('seravo_plugin_downloads_number'); ?></span> kertaa.</h1>
-          <p class="lead">Löydät listan Seravon rakentamista Wordpress-lisäosista <a href="http://seravo.fi/wordpress-palvelu/">täältä</a>.</p>
+          <p class="lead">Seravon rakentamat WordPress-lisäosat on julkaistu avoimella lisenssillä <a href="https://github.com/Seravo/?utf8=%E2%9C%93&query=wp">Githubissa</a>.</p>
         </div>
 
         <div class="mastfoot">
           <div class="inner">
-            <p>Copyright &copy; 2014  <a href="http://seravo.fi">Seravo Oy</a></p>
+            <p>Copyright &copy; <?php echo date('Y'); ?> <a href="http://seravo.fi">Seravo Oy</a></p>
           </div>
         </div>
 
