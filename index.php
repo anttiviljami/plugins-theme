@@ -2,7 +2,7 @@
 /**
  * Filename: index.php
  * Project: Plugins Theme
- * Copyright: (c) 2014 Seravo Oy
+ * Copyright: (c) 2015 Seravo Oy
  * License: The MIT License (MIT) http://opensource.org/licenses/MIT
  *
  * This is the default template file loaded by wordpress. Use this as your fallback page template.

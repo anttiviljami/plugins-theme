@@ -1,7 +1,7 @@
 /**
  * Filename: default.js
  * Project: Plugins Theme
- * Copyright: (c) 2014 Seravo Oy
+ * Copyright: (c) 2015 Antti Kuosmanen / Seravo Oy
  * License: The MIT License (MIT) http://opensource.org/licenses/MIT
  *
  * Edit this to add your own custom js to the theme.
